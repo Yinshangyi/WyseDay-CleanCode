@@ -1,6 +1,8 @@
 # Clean Code Workshop
 
 ## Solution for a coding challenge with Clean Code
+<img src="https://github.com/Yinshangyi/WyseDay-CleanCode/assets/30729570/642bbaa7-1619-4519-aa76-c626131ecbd1" width=40% />
+
 A solution to solve a coding challenge (check palindromes validity) using clean code best practices.  
 The program should read a text file containing words/sentences and should output for each item if they are palindromes 
 or not.
